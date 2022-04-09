@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jontatan25 Front End developer 
 - 👀 I’m interested in Improving my Front-end Skills
 - 🌱 I’m currently learning Backend Student
-- 💞️ I’m looking to collaborate on any front End-task that allows me to improve my skills
+- 💞️ I’m looking to collaborate on any Front-End project that allows me to improve my skills or Learn new relevant technologies
 - 📫 How to reach me  jhonn.developer@gmail.com 
 
 <!---
