@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jontatan25 Full stack MERN developer 
-- 👀 I’m interested in Improving my Front-end Skills and take my react to the next level,
+- 👋 Hi, I’m @jontatan25 Full stack developer 
+- 👀 I’m interested in Improving my Full-stack Skills and take my web development to the next level,
 - 🌱 I love the challenges, I think they are important in order to grow in every aspect of my life.
-- 💞️ I’m looking to collaborate on any Front-End project that allows me to improve my skills or Learn new relevant technologies.
+- 💞️ I’m looking to collaborate on any Front-End or Backend project that allows me to improve my skills.
 - 📫 How to reach me  jhonn.developer@gmail.com 
 
 <!---
